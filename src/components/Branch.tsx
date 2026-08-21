@@ -62,7 +62,7 @@ export function Branch() {
           <div className="overflow-hidden rounded-2xl shadow-card">
             <iframe
               title="Madurai Branch Location"
-              src="https://www.google.com/maps?q=Mela+Masi+Street,Madurai&output=embed"
+              src="https://www.google.com/maps?q=Chennai+Silks,+W+Perumal+Maistry+St,+Madurai+Main,+Madurai&output=embed"
               className="h-full min-h-[320px] w-full border-0"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
